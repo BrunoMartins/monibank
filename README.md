@@ -1,7 +1,7 @@
 <h1>Monibank</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site de cadastro para um banco. Através do site realizamos a validação das informações do formulário de cadastro, tiramos a foto do usuário e armazenamos todas essas informações na localstorage.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site de cadastro para um banco. Através do site realizamos a validação das informações do formulário de cadastro, tiramos a foto do usuário e armazenamos todas essas informações na localStorage.</p>
 
 [Acessar a página]( https://brunomartins.github.io/monibank/)
 
